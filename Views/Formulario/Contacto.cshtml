@@ -1,0 +1,24 @@
+@{
+    ViewBag.titulo = "Contacto";
+}
+<h1>Contactenos</h1>
+<p>Cuentanos cual es el problema por el que te comunicas?</p>
+
+<form action="~/Formulario/ConfirmarContacto" method="post">
+    <div>
+        <label>Correo:</label>
+        <input type="email" name="c">
+    </div>
+
+    <div>
+        <label>Título:</label>
+        <input type="text" name="t">
+    </div>
+
+   <div>
+        <label>Descripción:</label>
+        <textarea name="d"></textarea>            
+    </div>
+
+    <button>Enviar Pedido de Contacto</button>
+</form>

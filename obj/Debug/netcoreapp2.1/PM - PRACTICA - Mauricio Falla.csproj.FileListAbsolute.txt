@@ -1,0 +1,61 @@
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.deps.json
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.runtimeconfig.json
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.runtimeconfig.dev.json
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.dll
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.pdb
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.Views.dll
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.Views.pdb
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorAssemblyInfo.cache
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorAssemblyInfo.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.AssemblyInfoInputs.cache
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.AssemblyInfo.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.TagHelpers.input.cache
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.TagHelpers.output.cache
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorCoreGenerate.cache
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Formulario\Contacto.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Formulario\InicioSesion.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Formulario\RegistroSesion.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Home\Producto.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Plantilla.g.cshtml.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorTargetAssemblyInfo.cache
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorTargetAssemblyInfo.cs
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.Views.pdb
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.dll
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.pdb
+C:\Users\alumno\Downloads\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.csproj.CopyComplete
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.csprojAssemblyReference.cache
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.csproj.CoreCompileInputs.cache
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorAssemblyInfo.cache
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorAssemblyInfo.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.AssemblyInfoInputs.cache
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.AssemblyInfo.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.TagHelpers.input.cache
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.TagHelpers.output.cache
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorCoreGenerate.cache
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorTargetAssemblyInfo.cache
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.RazorTargetAssemblyInfo.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.dll
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.pdb
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.deps.json
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.runtimeconfig.json
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.runtimeconfig.dev.json
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.dll
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.pdb
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.Views.dll
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.Views.pdb
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.Views.pdb
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.csproj.CopyComplete
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Formulario\ConfirmarContacto.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Formulario\ConfirmarRegistro.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Formulario\Contacto.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Formulario\InicioSesion.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Formulario\RegistroSesion.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Home\Producto.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Plantilla.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LuisMauricio\Desktop\PM - PRACTICA - Mauricio Falla\PM - PRACTICA - Mauricio Falla\obj\Debug\netcoreapp2.1\PM - PRACTICA - Mauricio Falla.genruntimeconfig.cache

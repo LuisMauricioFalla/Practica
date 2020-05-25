@@ -1,0 +1,18 @@
+@{
+    ViewBag.titulo = "Registro de Sesion";
+}
+<h1>Registrarse</h1>
+
+<form action="~/Formulario/RegistroSesion" method="post">
+    <div>
+        <label>Nombre:</label>
+        <input type="text" name="nombre">
+    </div>
+
+    <div>
+        <label>Correo:</label>
+        <input type="email" name="correo">
+    </div>
+
+    <button>Registrar Cuenta</button>
+</form>
